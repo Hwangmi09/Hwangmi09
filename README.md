@@ -1,4 +1,4 @@
-## profile
+## Profile
 
 ### Name. 박황미
 
